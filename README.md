@@ -5,6 +5,7 @@
 
 ## MANUALE D'USO
 Il gioco funziona in modo molto semplice:
+- Installare Logisim e aprire con esso il file FlappyBird.circ
 - attivare il pulsante PLAY, che attiva la caduta libera dell'uccello.
 - Posizionarsi sul pulsante TASTIERA e utilizzare CTRL+K per attivare il clock (in modo che si abbia il tempo di posizionarsi sulla tastiera)
 - Utilizzare ENTER per controllare l'uccello e schivare gli ostacoli.
