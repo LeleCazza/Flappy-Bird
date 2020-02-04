@@ -9,6 +9,7 @@ Il gioco funziona in modo molto semplice:
 - attivare il pulsante PLAY, che attiva la caduta libera dell'uccello.
 - Posizionarsi sul pulsante TASTIERA e utilizzare CTRL+K per attivare il clock (in modo che si abbia il tempo di posizionarsi sulla tastiera)
 - Utilizzare ENTER per controllare l'uccello e schivare gli ostacoli.
+- è possibile modificare la velocità e quindi rendere più seomplice o difficile il gioco cambiando la frequenza di clock
 
 ## DIFFERENZE DAL GIOCO DI BASE:
 - Ostacoli di diversa posizione e dimensione.
