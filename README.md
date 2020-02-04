@@ -1,6 +1,6 @@
 # Flappy-Bird
 
-#REQUISITI
+## REQUISITI
 - Logisim: http://www.cburch.com/logisim/
 
 ## MANUALE D'USO
